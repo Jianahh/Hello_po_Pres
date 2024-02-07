@@ -5,7 +5,7 @@ const yesBtn = document.querySelector(".yes-btn");
 const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click",() => {
-    question.innerHTML = "YIEEEEEE TREAT KO NAMAN " ; gif.src = "gif.webp";});
+    question.innerHTML = "Tra Coffee date treat ko! " ; gif.src = "gif.webp";});
 
     noBtn.addEventListener("mouseover" , ( )  => {
         const noBtnReact = noBtn.getBoundingClientRect(); 
